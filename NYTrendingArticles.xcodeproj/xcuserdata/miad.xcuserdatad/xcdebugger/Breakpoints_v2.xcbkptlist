@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3341FFC6-9A14-42A9-A681-A8CA6C3CFE24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FAF1733-FCDE-40C9-B196-A1191E6C7F85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYTrendingArticles/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "didSelectPeriod(period:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F0D863-9833-49DE-9B0C-C60E436AF8D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYTrendingArticles/ViewModel/ArticleViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "didSelectPeriod(period:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C5F0D863-9833-49DE-9B0C-C60E436AF8D4 - 56c0d77dc34426f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NYTrendingArticles.ArticleViewModel.didSelectPeriod(period: NYTrendingArticles.Period) async -&gt; ()"
+                  moduleName = "NYTrendingArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/NYTrendingArticles/NYTrendingArticles/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "C5F0D863-9833-49DE-9B0C-C60E436AF8D4 - e29d6b8af35181af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for NYTrendingArticles.ArticleViewModel.didSelectPeriod(period: NYTrendingArticles.Period) async -&gt; ()"
+                  moduleName = "NYTrendingArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/NYTrendingArticles/NYTrendingArticles/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "C5F0D863-9833-49DE-9B0C-C60E436AF8D4 - 8a8a5ee9f9aae2ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NYTrendingArticles.ArticleViewModel.didSelectPeriod(period: NYTrendingArticles.Period) async -&gt; ()"
+                  moduleName = "NYTrendingArticles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/miad/Desktop/NYTrendingArticles/NYTrendingArticles/ViewModel/ArticleViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "139">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -9,9 +9,9 @@ import SwiftUI
 
 @main
 struct NYTrendingArticlesApp: App {
-    var body: some Scene {
+    var body: some Scene {        
         WindowGroup {
-            ContentView()
+            ArcticlesScreen()
         }
     }
 }
